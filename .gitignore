@@ -60,6 +60,9 @@ data/*/
 # Runtime user uploads
 backend/data/uploads/
 
+# Eval runtime (local Milvus Lite db)
+backend/eval/runtime/
+
 # Vector store persistence
 backend/vector_data/
 backend/chroma_data/
